@@ -8,4 +8,4 @@ HTML  | C# (WPF) | C# (Unity) | Kotlin (Android Studio)
 CSS (SCSS)  | C++ (Qt)
 JavaScript (TypeScript)
 
-[Show more...](https://github.com/Yota002/Yota002/blob/master/DETAILED.md)
+[Read more...](https://github.com/Yota002/Yota002/blob/master/DETAILED.md)
