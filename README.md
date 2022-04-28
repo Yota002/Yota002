@@ -2,7 +2,7 @@
 <a href="https://github.com/Yota002/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 <a href="https://wakatime.com/@2c5ed805-783e-4011-ae88-70cd315d679e" target="_blank"><img src="https://wakatime.com/badge/user/2c5ed805-783e-4011-ae88-70cd315d679e.svg?style=for-the-badge" alt="Total time coded since Aug 14 2021" /></a>
 
-### Hello, I'm Yota. I'm self-taught Software Developer (in future, at least).
+### Веб-разработчик самоучка
 
 ## GitHub Stats
 <img align="left" src="https://github.com/Yota002/github-stats-transparent/blob/output/generated/overview.svg" />
