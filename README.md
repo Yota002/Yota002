@@ -3,7 +3,7 @@
 <a href="https://wakatime.com/@2c5ed805-783e-4011-ae88-70cd315d679e" target="_blank"><img src="https://wakatime.com/badge/user/2c5ed805-783e-4011-ae88-70cd315d679e.svg?style=for-the-badge" alt="Total time coded since Aug 14 2021" /></a>
 
 ### Self-studied Front End Developer
-[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,nodejs,html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,js,ts,nodejs,html,css,sass,vscode,vercel,heroku,figma,ps,ai&perline=3)](https://skillicons.dev)
 
 ## GitHub Stats
 <img align="left" src="https://github.com/Yota002/github-stats-transparent/blob/output/generated/overview.svg" />
