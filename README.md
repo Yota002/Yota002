@@ -8,6 +8,7 @@
   </a>
 </p>
 
-## GitHub Stats
-<img align="left" src="https://github.com/Yota002/github-stats-transparent/blob/output/generated/overview.svg" />
-<img align="center" src="https://github.com/Yota002/github-stats-transparent/blob/output/generated/languages.svg" />
+<p align="center">
+  <img src="https://github.com/Yota002/github-stats-transparent/blob/output/generated/overview.svg" />
+  <img src="https://github.com/Yota002/github-stats-transparent/blob/output/generated/languages.svg" />
+</p>
