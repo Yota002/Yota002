@@ -5,6 +5,7 @@
 <h3 align="center">🌍 Socials</h3>
 <a href="https://t.me/yota404" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram"></a>
 <a href="https://github.com/Yota002/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://www.last.fm/user/Yota002" target="_blank"><img src="https://img.shields.io/badge/-Last.FM-%23ba0000?style=for-the-badge&logo=lastdotfm" alt="Last.FM"></a>
 </div>
 <h3 align="center">🛠 Technologies Stack</h3>
 <p align="center">
