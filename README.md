@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hey, I'm Yota!</h3>
-<p align="center">I'm programming from 2018. I like to learn new things, so I've had time to try my hand at desktop, mobile and both sides of web development (frontend and backend). I am currently working as an Angular developer for a company. I'm also doing some pet project development. I'm also interested in video game development, from audio and level design to coding.</p>
+<p align="center">I'm programming since 2018. I like to learn new things, so I've had time to try my hand at desktop, mobile and both sides of web development (frontend and backend). I am currently working as an Angular developer for a company. I'm also doing some pet project development. I'm also interested in video game development, from audio and level design to coding.</p>
 
 <h3 align="center">🌍 Socials</h3>
 <p align="center">
