@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-   <a href="https://www.last.fm/user/Yota002" target="_blank"><img src="https://badges.lastfm.workers.dev/last-played?color=ba0000&user=Yota002&style=for-the-badge&&label=Last.FM" alt="Last.FM" />   
+   <a href="https://www.last.fm/user/Yota002" target="_blank"><img src="[https://badges.lastfm.workers.dev/last-played?color=ba0000&user=Yota002&style=for-the-badge&&label=Last.FM](https://last-fm.yota1720.workers.dev/top-track?user=Yota002)" alt="Last.FM" />   
 </div>
 
 <h3 align="center">🛠 Technologies Stack</h3>
