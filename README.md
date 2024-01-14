@@ -15,7 +15,7 @@
 <h3 align="center">🛠 Technologies Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nest,ts,nodejs,html,css,sass,vscode,figma&perline=20" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,html,css,sass,vscode,figma&perline=20" />
   </a>
 </p>
 
